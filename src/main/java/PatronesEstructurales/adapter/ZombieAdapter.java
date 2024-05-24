@@ -1,6 +1,4 @@
-package adapter;
-
-import com.sun.source.tree.WhileLoopTree;
+package PatronesEstructurales.adapter;
 
 public class ZombieAdapter implements Enemy{
 

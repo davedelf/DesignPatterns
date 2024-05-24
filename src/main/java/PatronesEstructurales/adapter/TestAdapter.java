@@ -1,4 +1,4 @@
-package adapter;
+package PatronesEstructurales.adapter;
 
 /*Por lo general traigo una clase o varias clases que vienen de otro proyecto
 * y no están pensadas para el actual, entonces creamos una clase intermedia

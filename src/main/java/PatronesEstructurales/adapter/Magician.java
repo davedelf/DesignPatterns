@@ -1,4 +1,4 @@
-package adapter;
+package PatronesEstructurales.adapter;
 
 public class Magician implements Enemy{
     @Override
